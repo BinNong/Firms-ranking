@@ -4,7 +4,7 @@ typora-root-url: ./resources
 
 # 一、安装环境
 
-#### Python安装
+1. #### Python安装
 
 推荐使用conda来管理python环境，避免python版本冲突，本项目使用python3.5.6。(:warning:3.6以上版本暂不支持，因为底层的计算库不支持)。安装命令如下：
 
@@ -12,7 +12,9 @@ typora-root-url: ./resources
   >> conda create -n dea python=3.5.6
 ```
 
-​     :cry: 如果环境安装过慢可使用，可将conda下载镜像设置成清华镜像源：
+​     (当然也可以不用conda，可以直接使用pyhon安装包安装，只不过容易和本地已经安装的python产生冲突)
+
+:cry: 如果环境安装过慢可使用，可将conda下载镜像设置成清华镜像源：
 
 ```bash
   >> conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
@@ -22,7 +24,14 @@ typora-root-url: ./resources
 
 [miniconda]: https://docs.conda.io/projects/miniconda/en/latest/index.html#quick-command-line-install
 
+#### 2. 验证
 
+```bash
+>> conda activate dea # 激活python3.5.6环境
+>> python
+```
+
+若能够进入python 交互界面即可安装成功。:green_book:
 
 # 二、依赖安装
 
@@ -31,6 +40,7 @@ typora-root-url: ./resources
 本项目依赖数学优化工具，比如线性规划等。因此需要安装相关的依赖。依赖库在同级目录下的lib文件夹内。安装命令如下：
 
 ```bash
+  >> conda activate dea #进入python 3.5.6的隔离环境
   >> cd lib
   >> pip install .
 ```
