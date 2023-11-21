@@ -132,14 +132,15 @@ for row in example_standardized_data.values:
 
 result_df['分数'] = final_score
 
-data_dict = result_df.set_index('company_name').to_dict()['分数']
+data_dict = result_df.set_index('company_name')
+
 
 # 构造最终的JSON结构
 json_data = {
     "code": 200,
     "msg": "Success",
     "data": {
-        "entropy_weight": [{"company_name": str(key), "value": str(value)} for key, value in data_dict.items()]
+        "entropy_weight": [{"company_name": str(key), "value": str(value[0])} for key, value in data_dict.iterrows()]
     }
 }
 
