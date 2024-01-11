@@ -1,0 +1,2315 @@
+{	"group":null,
+	"total": "96",
+	"data": {
+		"2022": {
+			"成都德芯数字科技股份有限公司": {
+				"net_profit_end": "101604141.21",
+				"operating_income_end": "334629229.87",
+				"assets_amount_end": "537975138.17",
+				"debt_amount": "167104696.24",
+				"owner_equity_current": "370870441.93",
+				"operating_cost": "218653660.97"
+			},
+			"成都联帮医疗科技股份有限公司": {
+				"net_profit_end": "25368647.01",
+				"operating_income_end": "256085748.91",
+				"assets_amount_end": "351955358.87",
+				"debt_amount": "210423971.88",
+				"owner_equity_current": "141531386.99",
+				"operating_cost": "222613340.22"
+			},
+			"成都博高信息技术股份有限公司": {
+				"net_profit_end": "-1788364.58",
+				"operating_income_end": "91765820.03",
+				"assets_amount_end": "143493606.3",
+				"debt_amount": "25804606.15",
+				"owner_equity_current": "117689000.15",
+				"operating_cost": "70672585.76"
+			},
+			"四川新迎顺信息技术股份有限公司": {
+				"net_profit_end": "15462003.13",
+				"operating_income_end": "180485109.27",
+				"assets_amount_end": "290927020.45",
+				"debt_amount": "187370999.59",
+				"owner_equity_current": "103556020.86",
+				"operating_cost": "129738726.89"
+			},
+			"重庆奥根科技有限公司": {
+				"net_profit_end": "-4297996.3",
+				"operating_income_end": "35406922.92",
+				"assets_amount_end": "40955600.53",
+				"debt_amount": "20996120.65",
+				"owner_equity_current": "19959479.88",
+				"operating_cost": "31179149.18"
+			},
+			"四川天星智能包装股份有限公司": {
+				"net_profit_end": "2932361.16",
+				"operating_income_end": "90629836.98",
+				"assets_amount_end": "98669082.83",
+				"debt_amount": "34306247.5",
+				"owner_equity_current": "34306247.5",
+				"operating_cost": "75292337.19"
+			},
+			"成都欧美克石油股份有限公司": {
+				"net_profit_end": "17689631.27",
+				"operating_income_end": "140525253.12",
+				"assets_amount_end": "235408599.04",
+				"debt_amount": "47711530.29",
+				"owner_equity_current": "187697068.75",
+				"operating_cost": "78755378.55"
+			},
+			"重庆聚融建设（集团）股份有限公司": {
+				"net_profit_end": "34748696.57",
+				"operating_income_end": "243036700.89",
+				"assets_amount_end": "464272982.91",
+				"debt_amount": "199274703.09",
+				"owner_equity_current": "264998279.82",
+				"operating_cost": "169396743.7"
+			},
+			"四川新健康成生物股份有限公司": {
+				"net_profit_end": "9490657.85",
+				"operating_income_end": "153445671.57",
+				"assets_amount_end": "370644193.9",
+				"debt_amount": "28492900.02",
+				"owner_equity_current": "342151293.88",
+				"operating_cost": "82827515"
+			},
+			"四川安杰信科技股份有限公司": {
+				"net_profit_end": "-6790307.15",
+				"operating_income_end": "10223485.11",
+				"assets_amount_end": "40012206.96",
+				"debt_amount": "7731781.82",
+				"owner_equity_current": "32280425.14",
+				"operating_cost": "7933995.95"
+			},
+			"成都欧迅科技股份有限公司": {
+				"net_profit_end": "-7100148.95",
+				"operating_income_end": "1216371.66",
+				"assets_amount_end": "24139181.02",
+				"debt_amount": "29249925.11",
+				"owner_equity_current": "-5110744.09",
+				"operating_cost": "934846.36"
+			},
+			"成都卡乐福高分子材料股份有限公司": {
+				"net_profit_end": "259573.31",
+				"operating_income_end": "17136245.35",
+				"assets_amount_end": "25562610.4",
+				"debt_amount": "13546983.99",
+				"owner_equity_current": "12015626.41",
+				"operating_cost": "14111316.16"
+			},
+			"四川瑞宝电子股份有限公司": {
+				"net_profit_end": "21181963.49",
+				"operating_income_end": "255042762.87",
+				"assets_amount_end": "262402990.62",
+				"debt_amount": "115400459.85",
+				"owner_equity_current": "147002530.77",
+				"operating_cost": "190925418.18"
+			},
+			"成都龙之泉科技股份有限公司": {
+				"net_profit_end": "15296503.98",
+				"operating_income_end": "155569817.64",
+				"assets_amount_end": "384365786.76",
+				"debt_amount": "141805576.08",
+				"owner_equity_current": "242560210.68",
+				"operating_cost": "122096201.22"
+			},
+			"四川东方水利智能装备工程股份有限公司": {
+				"net_profit_end": "32649781.29",
+				"operating_income_end": "221892349.52",
+				"assets_amount_end": "353894732.21",
+				"debt_amount": "179808026.93",
+				"owner_equity_current": "174086705.28",
+				"operating_cost": "166139983.8"
+			},
+			"重庆荆江汽车半轴股份有限公": {
+				"net_profit_end": "-15896200.31",
+				"operating_income_end": "141190684.59",
+				"assets_amount_end": "210793143.77",
+				"debt_amount": "165668365.4",
+				"owner_equity_current": "45124778.37",
+				"operating_cost": "135172877.88"
+			},
+			"四川特飞科技股份有限公司": {
+				"net_profit_end": "-4547310.51",
+				"operating_income_end": "347207.24",
+				"assets_amount_end": "16112239.6",
+				"debt_amount": "11871611.21",
+				"owner_equity_current": "1438584.72",
+				"operating_cost": "6084811.75"
+			},
+			"成都畅达通检测技术股份有限公司": {
+				"net_profit_end": "4262257.72",
+				"operating_income_end": "24643966.01",
+				"assets_amount_end": "127153893.74",
+				"debt_amount": "37351601.08",
+				"owner_equity_current": "89802292.66",
+				"operating_cost": "18225805.45"
+			},
+			"成都共同管业集团股份有限公司": {
+				"net_profit_end": "11403061.04",
+				"operating_income_end": "274938114.4",
+				"assets_amount_end": "532242671.2",
+				"debt_amount": "200095795.02",
+				"owner_equity_current": "332146876.18",
+				"operating_cost": "257712130.72"
+			},
+			"四川锦美环保股份有限公司": {
+				"net_profit_end": "1094289.42",
+				"operating_income_end": "94630230.03",
+				"assets_amount_end": "270460644.24",
+				"debt_amount": "69263662.1",
+				"owner_equity_current": "201196982.14",
+				"operating_cost": "66819453.91"
+			},
+			"四川远方高新装备零部件股份有限公司": {
+				"net_profit_end": "5589443.14",
+				"operating_income_end": "85544350.87",
+				"assets_amount_end": "176967020.47",
+				"debt_amount": "123207031.37",
+				"owner_equity_current": "53759989.1",
+				"operating_cost": "60099308.96"
+			},
+			"成都新西南陶瓷艺术股份有限公司": {
+				"net_profit_end": "577088.41",
+				"operating_income_end": "9545384.26",
+				"assets_amount_end": "18882492.83",
+				"debt_amount": "16406077.27",
+				"owner_equity_current": "2476415.56",
+				"operating_cost": "5816323.46"
+			},
+			"重庆多普泰制药股份有限公司": {
+				"net_profit_end": "48662980.85",
+				"operating_income_end": "580141790.7",
+				"assets_amount_end": "691908428.99",
+				"debt_amount": "186485735.65",
+				"owner_equity_current": "505422693.34",
+				"operating_cost": "130147405.45"
+			},
+			"四川安达农森科技股份有限公司": {
+				"net_profit_end": "29039922.75",
+				"operating_income_end": "1014855167.28",
+				"assets_amount_end": "319740170.51",
+				"debt_amount": "215898721.17",
+				"owner_equity_current": "103841449.34",
+				"operating_cost": "937759751.23"
+			},
+			"四川格纳斯光电科技股份有限公司": {
+				"net_profit_end": "-7965637.5",
+				"operating_income_end": "129410697.2",
+				"assets_amount_end": "122431157.69",
+				"debt_amount": "111729587.59",
+				"owner_equity_current": "10701570.1",
+				"operating_cost": "123524355.57"
+			},
+			"重庆申高生化制药股份有限公司": {
+				"net_profit_end": "-3284502.72",
+				"operating_income_end": "20502712.14",
+				"assets_amount_end": "35238100.99",
+				"debt_amount": "17381202.8",
+				"owner_equity_current": "17856898.19",
+				"operating_cost": "17315525.08"
+			},
+			"贵州火焰山电器股份有限公司": {
+				"net_profit_end": "11205606.56",
+				"operating_income_end": "80471670.6",
+				"assets_amount_end": "137574529.65",
+				"debt_amount": "85025230.25",
+				"owner_equity_current": "52549299.4",
+				"operating_cost": "55476178.37"
+			},
+			"重庆霏洋环保科技股份有限公": {
+				"net_profit_end": "1663210.34",
+				"operating_income_end": "52396287.78",
+				"assets_amount_end": "81803569.81",
+				"debt_amount": "35237464.43",
+				"owner_equity_current": "46566105.38",
+				"operating_cost": "43089058.17"
+			},
+			"四川赛卓药业股份有限公司": {
+				"net_profit_end": "727874.99",
+				"operating_income_end": "55263914.94",
+				"assets_amount_end": "107371070.1",
+				"debt_amount": "20839054.18",
+				"owner_equity_current": "69944053.23",
+				"operating_cost": "19446688.39"
+			},
+			"四川深远石油钻井工具股份有限公司": {
+				"net_profit_end": "727874.99",
+				"operating_income_end": "55263914.94",
+				"assets_amount_end": "107371070.1",
+				"debt_amount": "28986046.36",
+				"owner_equity_current": "69944053.23",
+				"operating_cost": "19446688.39"
+			},
+			"成都帮辉汽车配件股份有限公司": {
+				"net_profit_end": "-2957348.39",
+				"operating_income_end": "124997681.09",
+				"assets_amount_end": "37000387.91",
+				"debt_amount": "23146357.99",
+				"owner_equity_current": "13854029.92",
+				"operating_cost": "122368053.2"
+			},
+			"贵州威门药业股份有限公司": {
+				"net_profit_end": "61291017.84",
+				"operating_income_end": "510695090.57",
+				"assets_amount_end": "898914147.45",
+				"debt_amount": "348048276.21",
+				"owner_equity_current": "550865871.24",
+				"operating_cost": "106327237.81"
+			},
+			"成都亚讯星科科技股份有限公司": {
+				"net_profit_end": "1074990.93",
+				"operating_income_end": "39217209.18",
+				"assets_amount_end": "45602021.11",
+				"debt_amount": "16185593.47",
+				"owner_equity_current": "29416427.64",
+				"operating_cost": "36232213.75"
+			},
+			"四川长城软件科技股份有限公司": {
+				"net_profit_end": "-2541219.4",
+				"operating_income_end": "6531281.12",
+				"assets_amount_end": "35947306.96",
+				"debt_amount": "797536.51",
+				"owner_equity_current": "35149770.45",
+				"operating_cost": "2040118.69"
+			},
+			"成都惠锋新材料科技股份有限公司": {
+				"net_profit_end": "-10994739.14",
+				"operating_income_end": "22809989.16",
+				"assets_amount_end": "74192081.14",
+				"debt_amount": "56479584.58",
+				"owner_equity_current": "17712496.56",
+				"operating_cost": "23694826.33"
+			},
+			"成都可为科技股份有限公司": {
+				"net_profit_end": "-1999903.97",
+				"operating_income_end": "9125060.06",
+				"assets_amount_end": "40423973.48",
+				"debt_amount": "25936026.53",
+				"owner_equity_current": "14487946.95",
+				"operating_cost": "4824006.1"
+			},
+			"成都市康华药业股份有限公司": {
+				"net_profit_end": "-4745205.9",
+				"operating_income_end": "52152734.49",
+				"assets_amount_end": "99847176.4",
+				"debt_amount": "14426217.56",
+				"owner_equity_current": "90126207.32",
+				"operating_cost": "40569688"
+			},
+			"成都飞鱼星科技股份有限公司": {
+				"net_profit_end": "-9594450.76",
+				"operating_income_end": "41627490.14",
+				"assets_amount_end": "80434471.42",
+				"debt_amount": "3265485.42",
+				"owner_equity_current": "77168986",
+				"operating_cost": "43351083.96"
+			},
+			"成都陆迪科技股份有限公司": {
+				"net_profit_end": "-2291857.07",
+				"operating_income_end": "12989275.83",
+				"assets_amount_end": "17077966.12",
+				"debt_amount": "11738796.56",
+				"owner_equity_current": "5339169.56",
+				"operating_cost": "15414864.67"
+			},
+			"四川亿舟科技股份有限公司": {
+				"net_profit_end": "457172.11",
+				"operating_income_end": "14669460.67",
+				"assets_amount_end": "12879290.39",
+				"debt_amount": "6704675.62",
+				"owner_equity_current": "6174614.77",
+				"operating_cost": "8965440.91"
+			},
+			"四川精典汽车服务联锁股份有限公司": {
+				"net_profit_end": "2121218.22",
+				"operating_income_end": "1521065251.2",
+				"assets_amount_end": "593867285.26",
+				"debt_amount": "503082966.54",
+				"owner_equity_current": "90784318.72",
+				"operating_cost": "1349849500.13"
+			},
+			"成都迈科高分子材料股份有限公司": {
+				"net_profit_end": "18095.68",
+				"operating_income_end": "44775627.81",
+				"assets_amount_end": "79283969.17",
+				"debt_amount": "37871926.34",
+				"owner_equity_current": "41412042.83",
+				"operating_cost": "32565040.44"
+			},
+			"四川九洲光电科技股份有限公司": {
+				"net_profit_end": "10188808.55",
+				"operating_income_end": "219700146.29",
+				"assets_amount_end": "376330156.04",
+				"debt_amount": "342896200.95",
+				"owner_equity_current": "33433955.09",
+				"operating_cost": "151886525.51"
+			},
+			"重庆和泰润佳股份有限公司": {
+				"net_profit_end": "19758245.48",
+				"operating_income_end": "294173340.88",
+				"assets_amount_end": "309075895.24",
+				"debt_amount": "174587504.87",
+				"owner_equity_current": "134488390.37",
+				"operating_cost": "235362452.42"
+			},
+			"成都鹏业软件股份有限公司": {
+				"net_profit_end": "26142214.01",
+				"operating_income_end": "129948265.32",
+				"assets_amount_end": "202805149.68",
+				"debt_amount": "78735648.39",
+				"owner_equity_current": "124069501.29",
+				"operating_cost": "48032783.12"
+			},
+			"四川蜀旺新能源股份有限公司": {
+				"net_profit_end": "2728645.29",
+				"operating_income_end": "33145702.9",
+				"assets_amount_end": "106552083.22",
+				"debt_amount": "32983844.74",
+				"owner_equity_current": "46432190.26",
+				"operating_cost": "28621562.33"
+			},
+			"重庆欧百特冷链科技股份有限公司": {
+				"net_profit_end": "4168254.53",
+				"operating_income_end": "33091618.44",
+				"assets_amount_end": "77444681.54",
+				"debt_amount": "43114165.32",
+				"owner_equity_current": "34330516.22",
+				"operating_cost": "21639956.56"
+			},
+			"云南祥云飞龙再生科技股份有限公司": {
+				"net_profit_end": "-731921023.79",
+				"operating_income_end": "1763400346.1",
+				"assets_amount_end": "8956842599.16",
+				"debt_amount": "5148348919.64",
+				"owner_equity_current": "3808493679.52",
+				"operating_cost": "1893300083.57"
+			},
+			"重庆市大正仪表股份有限公司": {
+				"net_profit_end": "12968049.22",
+				"operating_income_end": "80536952.26",
+				"assets_amount_end": "103099233.23",
+				"debt_amount": "31284693.08",
+				"owner_equity_current": "71814540.15",
+				"operating_cost": "49469337.17"
+			},
+			"四川豪特精工装备股份有限公司": {
+				"net_profit_end": "1033574.68",
+				"operating_income_end": "34946285.62",
+				"assets_amount_end": "67234401.44",
+				"debt_amount": "22234081.37",
+				"owner_equity_current": "45000320.07",
+				"operating_cost": "26905596.77"
+			},
+			"贵州汇通华城股份有限公司": {
+				"net_profit_end": "3855701.49",
+				"operating_income_end": "96557761.85",
+				"assets_amount_end": "148030534.84",
+				"debt_amount": "38503843.49",
+				"owner_equity_current": "109526691.35",
+				"operating_cost": "96984558.78"
+			},
+			"四川奇石缘科技股份有限公司": {
+				"net_profit_end": "11928944.81",
+				"operating_income_end": "79294198.91",
+				"assets_amount_end": "221502447.09",
+				"debt_amount": "86833404.83",
+				"owner_equity_current": "134669042.26",
+				"operating_cost": "36545109.29"
+			},
+			"四川大宇信息系统股份有限公司": {
+				"net_profit_end": "1564070.06",
+				"operating_income_end": "93029387.49",
+				"assets_amount_end": "110746656.96",
+				"debt_amount": "62993501.87",
+				"owner_equity_current": "47753155.09",
+				"operating_cost": "78000537.51"
+			},
+			"成都华津时代科技股份有限公司": {
+				"net_profit_end": "4195525.25",
+				"operating_income_end": "35773337.93",
+				"assets_amount_end": "85157656.39",
+				"debt_amount": "9815031.46",
+				"owner_equity_current": "75342624.93",
+				"operating_cost": "30952444.65"
+			},
+			"成都仁新科技股份有限公司": {
+				"net_profit_end": "36318178.9",
+				"operating_income_end": "247002979.7",
+				"assets_amount_end": "633441796.5",
+				"debt_amount": "186175093.26",
+				"owner_equity_current": "447266703.24",
+				"operating_cost": "195397631.52"
+			},
+			"贵州得轩堂护康药业股份有限公司": {
+				"net_profit_end": "-2590718.16",
+				"operating_income_end": "3787595.23",
+				"assets_amount_end": "20992532.37",
+				"debt_amount": "10984084.38",
+				"owner_equity_current": "10008447.99",
+				"operating_cost": "885707.45"
+			},
+			"成都易信达科技股份有限公司": {
+				"net_profit_end": "-9354574.77",
+				"operating_income_end": "24757268.02",
+				"assets_amount_end": "57460135.8",
+				"debt_amount": "40422045.92",
+				"owner_equity_current": "17038089.88",
+				"operating_cost": "16968853.74"
+			},
+			"成都西部泰力智能设备股份有限公司": {
+				"net_profit_end": "2559065.86",
+				"operating_income_end": "86478216.31",
+				"assets_amount_end": "222174859.31",
+				"debt_amount": "95169764.86",
+				"owner_equity_current": "127005094.45",
+				"operating_cost": "63908062.16"
+			},
+			"四川辅正药业股份有限公司": {
+				"net_profit_end": "7223193.93",
+				"operating_income_end": "86176862.7",
+				"assets_amount_end": "90574147.59",
+				"debt_amount": "40863439.47",
+				"owner_equity_current": "49710708.12",
+				"operating_cost": "14036024.56"
+			},
+			"四川飞宇电力股份有限公司": {
+				"net_profit_end": "177421.65",
+				"operating_income_end": "123088488.61",
+				"assets_amount_end": "130440579.39",
+				"debt_amount": "85398883.28",
+				"owner_equity_current": "45041696.11",
+				"operating_cost": "101028009.09"
+			},
+			"四川金安特农业股份有限公司": {
+				"net_profit_end": "-5401604.01",
+				"operating_income_end": "27160780.76",
+				"assets_amount_end": "56454763.17",
+				"debt_amount": "19621617.16",
+				"owner_equity_current": "36833146.01",
+				"operating_cost": "22163248.7"
+			},
+			"四川科志人防设备股份有限公司": {
+				"net_profit_end": "103903762.84",
+				"operating_income_end": "333571202.26",
+				"assets_amount_end": "695443164.81",
+				"debt_amount": "368473249.61",
+				"owner_equity_current": "326969915.2",
+				"operating_cost": "170769007.77"
+			},
+			"云南顺丰洱海环保科技股份有限公司": {
+				"net_profit_end": "2298512.47",
+				"operating_income_end": "295419192.89",
+				"assets_amount_end": "887414221.13",
+				"debt_amount": "803724920.1",
+				"owner_equity_current": "83689301.03",
+				"operating_cost": "222645171.26"
+			},
+			"成都佳诚弘毅科技股份有限公司": {
+				"net_profit_end": "-3587487.02",
+				"operating_income_end": "7160097.84",
+				"assets_amount_end": "12556178.95",
+				"debt_amount": "4403766.66",
+				"owner_equity_current": "8152412.29",
+				"operating_cost": "3574519.23"
+			},
+			"四川同人泰药业股份有限公司": {
+				"net_profit_end": "23760593.66",
+				"operating_income_end": "150433196.56",
+				"assets_amount_end": "204026878.89",
+				"debt_amount": "92870052.24",
+				"owner_equity_current": "111156826.65",
+				"operating_cost": "94201169.43"
+			},
+			"成都之维安科技股份有限公司": {
+				"net_profit_end": "373967.42",
+				"operating_income_end": "53938828.45",
+				"assets_amount_end": "82559378.89",
+				"debt_amount": "47369427.15",
+				"owner_equity_current": "35189951.74",
+				"operating_cost": "35271103.55"
+			},
+			"重庆梦赛力士光电股份有限公司": {
+				"net_profit_end": "2932495",
+				"operating_income_end": "39823459.06",
+				"assets_amount_end": "67046622.87",
+				"debt_amount": "24900240.78",
+				"owner_equity_current": "42146382.09",
+				"operating_cost": "36991722.17"
+			},
+			"四川俊虹建材股份有限公司": {
+				"net_profit_end": "-10606845.36",
+				"operating_income_end": "49282344.51",
+				"assets_amount_end": "93544254.65",
+				"debt_amount": "101164189.19",
+				"owner_equity_current": "-7619934.54",
+				"operating_cost": "49649796.5"
+			},
+			"重庆聚能粉末": {
+				"net_profit_end": "4355150.53",
+				"operating_income_end": "75005003.64",
+				"assets_amount_end": "135489536.84",
+				"debt_amount": "56143787.84",
+				"owner_equity_current": "79345749",
+				"operating_cost": "74849644.34"
+			},
+			"重庆云网科技股份有限公司": {
+				"net_profit_end": "-29055228.99",
+				"operating_income_end": "71521406.11",
+				"assets_amount_end": "165452985.16",
+				"debt_amount": "103766090.7",
+				"owner_equity_current": "61686894.46",
+				"operating_cost": "56232938.26"
+			},
+			"四川川净洁净技术股份有限公司": {
+				"net_profit_end": "8595326.92",
+				"operating_income_end": "106295697.4",
+				"assets_amount_end": "145089710.19",
+				"debt_amount": "53189744.95",
+				"owner_equity_current": "91899965.24",
+				"operating_cost": "80465687.43"
+			},
+			"成都蜀虹装备制造股份有限公司": {
+				"net_profit_end": "61622187.36",
+				"operating_income_end": "233611961.99",
+				"assets_amount_end": "414807682.17",
+				"debt_amount": "221708365.54",
+				"owner_equity_current": "193099316.63",
+				"operating_cost": "144496530.39"
+			},
+			"四川省福喜迎门酒业股份有限公司": {
+				"net_profit_end": "-3552636.23",
+				"operating_income_end": "240361.07",
+				"assets_amount_end": "14851972.5",
+				"debt_amount": "3506503.59",
+				"owner_equity_current": "11345468.91",
+				"operating_cost": "105371.36"
+			},
+			"四川帝华汽车科技股份有限公司": {
+				"net_profit_end": "6591831.86",
+				"operating_income_end": "51257792.14",
+				"assets_amount_end": "183827865.94",
+				"debt_amount": "98331890.61",
+				"owner_equity_current": "85495975.33",
+				"operating_cost": "28162329.2"
+			},
+			"重庆巨创计量设备股份有限公司": {
+				"net_profit_end": "-4407422.67",
+				"operating_income_end": "12234761.58",
+				"assets_amount_end": "28910216.71",
+				"debt_amount": "22224498.55",
+				"owner_equity_current": "6685718.16",
+				"operating_cost": "9805446.28"
+			},
+			"成都绿金高新技术股份有限公司": {
+				"net_profit_end": "-3502439.37",
+				"operating_income_end": "148792908.77",
+				"assets_amount_end": "125798252.9",
+				"debt_amount": "99886805.7",
+				"owner_equity_current": "25911447.2",
+				"operating_cost": "158574306.16"
+			},
+			"重庆锦瑜电子股份有限公司": {
+				"net_profit_end": "835664.82",
+				"operating_income_end": "187635539.38",
+				"assets_amount_end": "221324583.88",
+				"debt_amount": "145582674.87",
+				"owner_equity_current": "75741909.01",
+				"operating_cost": "161113996.62"
+			},
+			"成都巨龙生物科技股份有限公司": {
+				"net_profit_end": "546993.15",
+				"operating_income_end": "86537669.35",
+				"assets_amount_end": "105166646.03",
+				"debt_amount": "37158841.4",
+				"owner_equity_current": "68007804.63",
+				"operating_cost": "48737046.78"
+			},
+			"四川银钢一通凸轮科技股份有限公司": {
+				"net_profit_end": "37243044.63",
+				"operating_income_end": "288800125.62",
+				"assets_amount_end": "425645602.28",
+				"debt_amount": "240458679.2",
+				"owner_equity_current": "185186923.08",
+				"operating_cost": "219257151.46"
+			},
+			"重庆瑞普电气实业股份有限公司": {
+				"net_profit_end": "25673257.48",
+				"operating_income_end": "987883589.64",
+				"assets_amount_end": "819274086.94",
+				"debt_amount": "491271136.5",
+				"owner_equity_current": "328002950.44",
+				"operating_cost": "869362935.35"
+			},
+			"四川东立科技股份有限公司": {
+				"net_profit_end": "33279351.81",
+				"operating_income_end": "267003948.72",
+				"assets_amount_end": "420603546.7",
+				"debt_amount": "256198948.24",
+				"owner_equity_current": "164404598.46",
+				"operating_cost": "192992711.08"
+			},
+			"四川华南信息产业股份有限公司": {
+				"net_profit_end": "-9334000.63",
+				"operating_income_end": "10848094",
+				"assets_amount_end": "45757974.14",
+				"debt_amount": "36164292.61",
+				"owner_equity_current": "9539681.53",
+				"operating_cost": "7338537.32"
+			},
+			"成都恒成工具股份有限公司": {
+				"net_profit_end": "6978537.73",
+				"operating_income_end": "93410513.37",
+				"assets_amount_end": "219541772.5",
+				"debt_amount": "141521293.46",
+				"owner_equity_current": "78020479.04",
+				"operating_cost": "87681046.08"
+			},
+			"四川赛狄信息技术股份公司": {
+				"net_profit_end": "22204750.34",
+				"operating_income_end": "221554366.68",
+				"assets_amount_end": "681880384.42",
+				"debt_amount": "247248884.23",
+				"owner_equity_current": "434631500.19",
+				"operating_cost": "113148637.06"
+			},
+			"四川村田机械制造股份有限公司": {
+				"net_profit_end": "415221.39",
+				"operating_income_end": "32635570.34",
+				"assets_amount_end": "49218800.07",
+				"debt_amount": "25490839.25",
+				"owner_equity_current": "23727960.82",
+				"operating_cost": "27718611.94"
+			},
+			"重庆鸿全兴业金属制品股份有限公司": {
+				"net_profit_end": "-24335771.89",
+				"operating_income_end": "101837549.16",
+				"assets_amount_end": "186286735.86",
+				"debt_amount": "86696968.32",
+				"owner_equity_current": "99589767.54",
+				"operating_cost": "84664183.74"
+			},
+			"贵州贵材创新科技股份有限公司": {
+				"net_profit_end": "7536661.3",
+				"operating_income_end": "184299474.56",
+				"assets_amount_end": "120506857.72",
+				"debt_amount": "69217122.48",
+				"owner_equity_current": "51289735.24",
+				"operating_cost": "164612298.89"
+			},
+			"成都成电光信科技股份有限公司": {
+				"net_profit_end": "31321232.65",
+				"operating_income_end": "166810534.18",
+				"assets_amount_end": "232448368.77",
+				"debt_amount": "111222586.79",
+				"owner_equity_current": "121225781.98",
+				"operating_cost": "92925482.1"
+			},
+			"云南七丹药业股份有限公司": {
+				"net_profit_end": "5867614.84",
+				"operating_income_end": "314981116.65",
+				"assets_amount_end": "356783070.17",
+				"debt_amount": "203294439.8",
+				"owner_equity_current": "153488630.37",
+				"operating_cost": "249783270.28"
+			},
+			"四川东钢新材料股份有限公司": {
+				"net_profit_end": "4539164.32",
+				"operating_income_end": "159514235.73",
+				"assets_amount_end": "87007688.82",
+				"debt_amount": "27125602.07",
+				"owner_equity_current": "59882086.75",
+				"operating_cost": "147041161.88"
+			},
+			"四川南联环资科技股份有限公司": {
+				"net_profit_end": "11343518.16",
+				"operating_income_end": "95915855.03",
+				"assets_amount_end": "302085150.55",
+				"debt_amount": "109133060.26",
+				"owner_equity_current": "192952090.29",
+				"operating_cost": "67897323.12"
+			},
+			"成都维纳软件股份有限公司": {
+				"net_profit_end": "-6865683.58",
+				"operating_income_end": "113076237.79",
+				"assets_amount_end": "101119762.62",
+				"debt_amount": "34488635.23",
+				"owner_equity_current": "66631127.39",
+				"operating_cost": "102923585.76"
+			},
+			"重庆大众能源设备有限公司": {
+				"net_profit_end": "2917843.53",
+				"operating_income_end": "55234831.37",
+				"assets_amount_end": "87850001.05",
+				"debt_amount": "64626297.58",
+				"owner_equity_current": "23223703.47",
+				"operating_cost": "40474597.06"
+			},
+			"云南润杰农业科技股份有限公司": {
+				"net_profit_end": "8006701.98",
+				"operating_income_end": "292213752.85",
+				"assets_amount_end": "145687457.91",
+				"debt_amount": "103931187.62",
+				"owner_equity_current": "41756270.29",
+				"operating_cost": "224814183.68"
+			},
+			"重庆新申新材料股份有限公司": {
+				"net_profit_end": "23927669.49",
+				"operating_income_end": "174555801.49",
+				"assets_amount_end": "152643412.75",
+				"debt_amount": "67424738.84",
+				"owner_equity_current": "85218673.91",
+				"operating_cost": "133045308.23"
+			},
+			"四川春盛药业集团股份有限公司": {
+				"net_profit_end": "-21842452.87",
+				"operating_income_end": "77651235.04",
+				"assets_amount_end": "169225738.15",
+				"debt_amount": "118530843.5",
+				"owner_equity_current": "56829728.06",
+				"operating_cost": "70324398.77"
+			}
+		},
+		"2021": {
+			"四川新迎顺信息技术股份有限公司": {
+				"net_profit_end": "16631810.38",
+				"operating_income_end": "203732207.16",
+				"assets_amount_end": "243020757.92",
+				"debt_amount": "147678740.19",
+				"owner_equity_current": "95342017.73",
+				"operating_cost": "155748219.31"
+			},
+			"四川精典汽车服务联锁股份有限公司": {
+				"net_profit_end": "6594595.55",
+				"operating_income_end": "1654079245.86",
+				"assets_amount_end": "735696669.69",
+				"debt_amount": "645576641.19",
+				"owner_equity_current": "90120028.5",
+				"operating_cost": "1469542709.11"
+			},
+			"重庆云网科技股份有限公司": {
+				"net_profit_end": "914893.76",
+				"operating_income_end": "80239784.45",
+				"assets_amount_end": "160287699.41",
+				"debt_amount": "69545575.96",
+				"owner_equity_current": "90742123.45",
+				"operating_cost": "47647038.92"
+			},
+			"四川天星智能包装股份有限公司": {
+				"net_profit_end": "7044888.71",
+				"operating_income_end": "100905598.7",
+				"assets_amount_end": "109362400.52",
+				"debt_amount": "46999495.53",
+				"owner_equity_current": "61430474.17",
+				"operating_cost": "80666032.77"
+			},
+			"成都欧美克石油股份有限公司": {
+				"net_profit_end": "13247736.3",
+				"operating_income_end": "91642537.69",
+				"assets_amount_end": "217090964.43",
+				"debt_amount": "37149852.43",
+				"owner_equity_current": "179941112",
+				"operating_cost": "57907109.47"
+			},
+			"四川川净洁净技术股份有限公司": {
+				"net_profit_end": "7900545.06",
+				"operating_income_end": "126662836.64",
+				"assets_amount_end": "138297370.73",
+				"debt_amount": "54992732.41",
+				"owner_equity_current": "83304638.32",
+				"operating_cost": "102087626.62"
+			},
+			"重庆和泰润佳股份有限公司": {
+				"net_profit_end": "26212437.77",
+				"operating_income_end": "228983579.76",
+				"assets_amount_end": "283086820.06",
+				"debt_amount": "165730702.37",
+				"owner_equity_current": "117356117.69",
+				"operating_cost": "170252872.07"
+			},
+			"四川辅正药业股份有限公司": {
+				"net_profit_end": "241283842",
+				"operating_income_end": "85577944.28",
+				"assets_amount_end": "79388265.48",
+				"debt_amount": "36900751.29",
+				"owner_equity_current": "42487514.19",
+				"operating_cost": "14250302.99"
+			},
+			"重庆大众能源设备有限公司": {
+				"net_profit_end": "-4251194.9",
+				"operating_income_end": "22073811.22",
+				"assets_amount_end": "54767899.61",
+				"debt_amount": "34462039.67",
+				"owner_equity_current": "20305859.94",
+				"operating_cost": "14076903.66"
+			},
+			"重庆锦瑜电子股份有限公司": {
+				"net_profit_end": "-3988651.84",
+				"operating_income_end": "235092901.43",
+				"assets_amount_end": "261394109.27",
+				"debt_amount": "186487865.08",
+				"owner_equity_current": "74906244.19",
+				"operating_cost": "210316001.1"
+			},
+			"成都迈科高分子材料股份有限公司": {
+				"net_profit_end": "1220195.71",
+				"operating_income_end": "44384542.05",
+				"assets_amount_end": "68602131.62",
+				"debt_amount": "27208184.47",
+				"owner_equity_current": "41393947.15",
+				"operating_cost": "31295973.68"
+			},
+			"成都陆迪科技股份有限公司": {
+				"net_profit_end": "-3243426.38",
+				"operating_income_end": "10815667.52",
+				"assets_amount_end": "16435011.86",
+				"debt_amount": "8803985.23",
+				"owner_equity_current": "7631026.63",
+				"operating_cost": "13734180.12"
+			},
+			"成都飞鱼星科技股份有限公司": {
+				"net_profit_end": "3219212.95",
+				"operating_income_end": "33979219.98",
+				"assets_amount_end": "93466670.49",
+				"debt_amount": "4603233.73",
+				"owner_equity_current": "88863436.76",
+				"operating_cost": "37144599.27"
+			},
+			"成都巨龙生物科技股份有限公司": {
+				"net_profit_end": "4412074.11",
+				"operating_income_end": "92832460.32",
+				"assets_amount_end": "92745609.27",
+				"debt_amount": "25284797.79",
+				"owner_equity_current": "67460811.48",
+				"operating_cost": "55664496.85"
+			},
+			"四川东立科技股份有限公司": {
+				"net_profit_end": "68000691",
+				"operating_income_end": "389076552.18",
+				"assets_amount_end": "250390690.81",
+				"debt_amount": "84075553.6",
+				"owner_equity_current": "166315137.21",
+				"operating_cost": "272416637.75"
+			},
+			"四川南联环资科技股份有限公司": {
+				"net_profit_end": "25119253.72",
+				"operating_income_end": "134232610.56",
+				"assets_amount_end": "303023185.9",
+				"debt_amount": "118793218.77",
+				"owner_equity_current": "184229967.13",
+				"operating_cost": "90186545.08"
+			},
+			"重庆鸿全兴业金属制品股份有限公司": {
+				"net_profit_end": "131383.98",
+				"operating_income_end": "93890321.97",
+				"assets_amount_end": "194587687.87",
+				"debt_amount": "70662148.44",
+				"owner_equity_current": "123925539.43",
+				"operating_cost": "79578196.85"
+			},
+			"四川大宇信息系统股份有限公司": {
+				"net_profit_end": "1887475.05",
+				"operating_income_end": "50813560.55",
+				"assets_amount_end": "66242793.56",
+				"debt_amount": "21201891.16",
+				"owner_equity_current": "45040902.4",
+				"operating_cost": "36903875.39"
+			},
+			"四川赛狄信息技术股份公司": {
+				"net_profit_end": "17578462.53",
+				"operating_income_end": "223036285.4",
+				"assets_amount_end": "641038153.11",
+				"debt_amount": "230954433.67",
+				"owner_equity_current": "410083719.44",
+				"operating_cost": "124235667.48"
+			},
+			"成都帮辉汽车配件股份有限公司": {
+				"net_profit_end": "-285452.48",
+				"operating_income_end": "85240894.31",
+				"assets_amount_end": "52292129.97",
+				"debt_amount": "35480751.66",
+				"owner_equity_current": "16811378.31",
+				"operating_cost": "80267191.38"
+			},
+			"重庆多普泰制药股份有限公司": {
+				"net_profit_end": "45883382.38",
+				"operating_income_end": "542658150.41",
+				"assets_amount_end": "596638735.79",
+				"debt_amount": "112747302.41",
+				"owner_equity_current": "483891433.38",
+				"operating_cost": "169033781.54"
+			},
+			"成都德芯数字科技股份有限公司": {
+				"net_profit_end": "81449584.08",
+				"operating_income_end": "263130016.13",
+				"assets_amount_end": "386509685.09",
+				"debt_amount": "117243384.37",
+				"owner_equity_current": "269266300.72",
+				"operating_cost": "119098920.61"
+			},
+			"成都成电光信科技股份有限公司": {
+				"net_profit_end": "21190827.95",
+				"operating_income_end": "117507386.29",
+				"assets_amount_end": "225174669",
+				"debt_amount": "96564692.89",
+				"owner_equity_current": "128609976.11",
+				"operating_cost": "69448733.94"
+			},
+			"成都华津时代科技股份有限公司": {
+				"net_profit_end": "4692555.53",
+				"operating_income_end": "39368426.26",
+				"assets_amount_end": "82205120.43",
+				"debt_amount": "11058020.75",
+				"owner_equity_current": "71147099.68",
+				"operating_cost": "35866272"
+			},
+			"四川长城软件科技股份有限公司": {
+				"net_profit_end": "-4830378.2",
+				"operating_income_end": "8015069.93",
+				"assets_amount_end": "38365261.67",
+				"debt_amount": "674271.82",
+				"owner_equity_current": "37690989.85",
+				"operating_cost": "2280621.7"
+			},
+			"四川春盛药业集团股份有限公司": {
+				"net_profit_end": "31442.36",
+				"operating_income_end": "61112893.51",
+				"assets_amount_end": "154769104.95",
+				"debt_amount": "82233557.43",
+				"owner_equity_current": "72535547.52",
+				"operating_cost": "46450548.81"
+			},
+			"四川安达农森科技股份有限公司": {
+				"net_profit_end": "31051648.54",
+				"operating_income_end": "677757851.83",
+				"assets_amount_end": "246105092.25",
+				"debt_amount": "143943565.66",
+				"owner_equity_current": "102161526.59",
+				"operating_cost": "610936017.53"
+			},
+			"四川省福喜迎门酒业股份有限公司": {
+				"net_profit_end": "-5339893.67",
+				"operating_income_end": "109166.38",
+				"assets_amount_end": "17994565.37",
+				"debt_amount": "3096460.23",
+				"owner_equity_current": "14898105.14",
+				"operating_cost": "1231551.84"
+			},
+			"四川银钢一通凸轮科技股份有限公司": {
+				"net_profit_end": "37553108.59",
+				"operating_income_end": "304944487.59",
+				"assets_amount_end": "392633527.05",
+				"debt_amount": "105472623.21",
+				"owner_equity_current": "83635166.78",
+				"operating_cost": "262626376.6"
+			},
+			"四川奇石缘科技股份有限公司": {
+				"net_profit_end": "22938849.89",
+				"operating_income_end": "92265503.52",
+				"assets_amount_end": "220335109.69",
+				"debt_amount": "88853537.83",
+				"owner_equity_current": "131481571.86",
+				"operating_cost": "45943159.59"
+			},
+			"贵州威门药业股份有限公司": {
+				"net_profit_end": "38809364.1",
+				"operating_income_end": "486486776.43",
+				"assets_amount_end": "876207632.19",
+				"debt_amount": "323731878.79",
+				"owner_equity_current": "552475753.4",
+				"operating_cost": "104111532.82"
+			},
+			"成都龙之泉科技股份有限公司": {
+				"net_profit_end": "14185326.21",
+				"operating_income_end": "147606357.04",
+				"assets_amount_end": "357910500.69",
+				"debt_amount": "130704793.89",
+				"owner_equity_current": "227205706.8",
+				"operating_cost": "124315308.39"
+			},
+			"四川特飞科技股份有限公司": {
+				"net_profit_end": "681084.66",
+				"operating_income_end": "10015381.31",
+				"assets_amount_end": "17857506.44",
+				"debt_amount": "8432357.1",
+				"owner_equity_current": "5985895.23",
+				"operating_cost": "11806076.85"
+			},
+			"成都欧迅科技股份有限公司": {
+				"net_profit_end": "-7768219.63",
+				"operating_income_end": "6538754.88",
+				"assets_amount_end": "27795099.55",
+				"debt_amount": "28799694.69",
+				"owner_equity_current": "-1004595.14",
+				"operating_cost": "4094068.33"
+			},
+			"重庆聚能粉末": {
+				"net_profit_end": "28178407.58",
+				"operating_income_end": "108337571.16",
+				"assets_amount_end": "135934439.07",
+				"debt_amount": "48262475.74",
+				"owner_equity_current": "87671963.33",
+				"operating_cost": "100124317.47"
+			},
+			"四川俊虹建材股份有限公司": {
+				"net_profit_end": "-961349.6",
+				"operating_income_end": "141192972.09",
+				"assets_amount_end": "114264472.23",
+				"debt_amount": "111277561.41",
+				"owner_equity_current": "2986910.82",
+				"operating_cost": "117626190.5"
+			},
+			"贵州得轩堂护康药业股份有限公司": {
+				"net_profit_end": "-3313468.78",
+				"operating_income_end": "4919900.93",
+				"assets_amount_end": "22005527.83",
+				"debt_amount": "9406361.68",
+				"owner_equity_current": "12599166.15",
+				"operating_cost": "1125924.91"
+			},
+			"成都恒成工具股份有限公司": {
+				"net_profit_end": "9075241.59",
+				"operating_income_end": "76967392.61",
+				"assets_amount_end": "153265575.82",
+				"debt_amount": "86716242.51",
+				"owner_equity_current": "66549333.31",
+				"operating_cost": "67646885.23"
+			},
+			"成都惠锋新材料科技股份有限公司": {
+				"net_profit_end": "87946.46",
+				"operating_income_end": "30813852.02",
+				"assets_amount_end": "80779588.61",
+				"debt_amount": "52072352.91",
+				"owner_equity_current": "28707235.7",
+				"operating_cost": "31378352.55"
+			},
+			"成都佳诚弘毅科技股份有限公司": {
+				"net_profit_end": "1248724.89",
+				"operating_income_end": "16771776.36",
+				"assets_amount_end": "14354341.04",
+				"debt_amount": "2494330.09",
+				"owner_equity_current": "11860008.95",
+				"operating_cost": "7346358.37"
+			},
+			"四川格纳斯光电科技股份有限公司": {
+				"net_profit_end": "1273872.08",
+				"operating_income_end": "188629195.59",
+				"assets_amount_end": "134211174.16",
+				"debt_amount": "115543966.56",
+				"owner_equity_current": "18667207.6",
+				"operating_cost": "169852414.67"
+			},
+			"四川同人泰药业股份有限公司": {
+				"net_profit_end": "25608421.72",
+				"operating_income_end": "145920255.52",
+				"assets_amount_end": "157200525.23",
+				"debt_amount": "61804292.24",
+				"owner_equity_current": "95396232.99",
+				"operating_cost": "94806389.05"
+			},
+			"成都仁新科技股份有限公司": {
+				"net_profit_end": "55680959.23",
+				"operating_income_end": "268978065.56",
+				"assets_amount_end": "691348027.99",
+				"debt_amount": "234299503.65",
+				"owner_equity_current": "457048524.34",
+				"operating_cost": "187268544.46"
+			},
+			"四川东钢新材料股份有限公司": {
+				"net_profit_end": "6149191.33",
+				"operating_income_end": "151589977.9",
+				"assets_amount_end": "88676590.37",
+				"debt_amount": "30986735.83",
+				"owner_equity_current": "57689854.54",
+				"operating_cost": "137074610.66"
+			},
+			"重庆巨创计量设备股份有限公司": {
+				"net_profit_end": "4320748.27",
+				"operating_income_end": "25021192.93",
+				"assets_amount_end": "33164367.25",
+				"debt_amount": "22071226.42",
+				"owner_equity_current": "11093140.83",
+				"operating_cost": "17552498.86"
+			},
+			"四川飞宇电力股份有限公司": {
+				"net_profit_end": "4124657.99",
+				"operating_income_end": "145035378.78",
+				"assets_amount_end": "136142341.08",
+				"debt_amount": "91278066.62",
+				"owner_equity_current": "44864274.46",
+				"operating_cost": "121549274.57"
+			},
+			"成都市康华药业股份有限公司": {
+				"net_profit_end": "6061084.53",
+				"operating_income_end": "78677637.49",
+				"assets_amount_end": "108945750.25",
+				"debt_amount": "13849344.02",
+				"owner_equity_current": "99376491.23",
+				"operating_cost": "58657846.67"
+			},
+			"重庆梦赛力士光电股份有限公司": {
+				"net_profit_end": "6770582.63",
+				"operating_income_end": "62501405.99",
+				"assets_amount_end": "68249641.76",
+				"debt_amount": "28652136.07",
+				"owner_equity_current": "39597505.69",
+				"operating_cost": "54313882.69"
+			},
+			"云南七丹药业股份有限公司": {
+				"net_profit_end": "9426292.9",
+				"operating_income_end": "310617367.92",
+				"assets_amount_end": "325383708.29",
+				"debt_amount": "177642953.7",
+				"owner_equity_current": "147740754.59",
+				"operating_cost": "254649421"
+			},
+			"四川帝华汽车科技股份有限公司": {
+				"net_profit_end": "-582530.93",
+				"operating_income_end": "57902833.58",
+				"assets_amount_end": "174162359.84",
+				"debt_amount": "88065678.03",
+				"owner_equity_current": "86096681.81",
+				"operating_cost": "34989150.21"
+			},
+			"成都鹏业软件股份有限公司": {
+				"net_profit_end": "23354556.42",
+				"operating_income_end": "106193802.06",
+				"assets_amount_end": "149533015.62",
+				"debt_amount": "72484784.95",
+				"owner_equity_current": "77048230.67",
+				"operating_cost": "30848677.49"
+			},
+			"四川深远石油钻井工具股份有限公司": {
+				"net_profit_end": "877796.84",
+				"operating_income_end": "70799821.68",
+				"assets_amount_end": "201274057.21",
+				"debt_amount": "111847737.95",
+				"owner_equity_current": "83679206.9",
+				"operating_cost": "47286979.15"
+			},
+			"重庆申高生化制药股份有限公司": {
+				"net_profit_end": "-2502066.15",
+				"operating_income_end": "24478964.92",
+				"assets_amount_end": "39711400.93",
+				"debt_amount": "18570000.02",
+				"owner_equity_current": "21141400.91",
+				"operating_cost": "19262804.1"
+			},
+			"成都共同管业集团股份有限公司": {
+				"net_profit_end": "39829711.17",
+				"operating_income_end": "329244374.08",
+				"assets_amount_end": "451224675.65",
+				"debt_amount": "166839445.41",
+				"owner_equity_current": "284385230.24",
+				"operating_cost": "281988945.4"
+			},
+			"成都可为科技股份有限公司": {
+				"net_profit_end": "-2043787.98",
+				"operating_income_end": "10677578.79",
+				"assets_amount_end": "42611506.7",
+				"debt_amount": "26121616.66",
+				"owner_equity_current": "16487850.92",
+				"operating_cost": "11865334.59"
+			},
+			"贵州汇通华城股份有限公司": {
+				"net_profit_end": "4087476",
+				"operating_income_end": "86956893.09",
+				"assets_amount_end": "159162024.38",
+				"debt_amount": "48645198.09",
+				"owner_equity_current": "110516826.29",
+				"operating_cost": "92077216.39"
+			},
+			"成都易信达科技股份有限公司": {
+				"net_profit_end": "-7686091.32",
+				"operating_income_end": "30671106.54",
+				"assets_amount_end": "62389175.84",
+				"debt_amount": "35996511.19",
+				"owner_equity_current": "26392664.65",
+				"operating_cost": "17571229.04"
+			},
+			"重庆荆江汽车半轴股份有限公": {
+				"net_profit_end": "-1156012.18",
+				"operating_income_end": "181265694.19",
+				"assets_amount_end": "223470030.15",
+				"debt_amount": "162449051.47",
+				"owner_equity_current": "61020978.68",
+				"operating_cost": "149199401.48"
+			},
+			"成都卡乐福高分子材料股份有限公司": {
+				"net_profit_end": "1048604.45",
+				"operating_income_end": "23148103.95",
+				"assets_amount_end": "22901393.97",
+				"debt_amount": "11332100.87",
+				"owner_equity_current": "11569293.1",
+				"operating_cost": "18838989.08"
+			},
+			"成都畅达通检测技术股份有限公司": {
+				"net_profit_end": "3803555.44",
+				"operating_income_end": "42452217.11",
+				"assets_amount_end": "132174259.44",
+				"debt_amount": "37448793.09",
+				"owner_equity_current": "94725466.35",
+				"operating_cost": "25648002.41"
+			},
+			"四川豪特精工装备股份有限公司": {
+				"net_profit_end": "2767424.88",
+				"operating_income_end": "42220345.87",
+				"assets_amount_end": "66326338.34",
+				"debt_amount": "22359592.95",
+				"owner_equity_current": "43966745.39",
+				"operating_cost": "31932497.66"
+			},
+			"四川华南信息产业股份有限公司": {
+				"net_profit_end": "-8665276.63",
+				"operating_income_end": "17050776.17",
+				"assets_amount_end": "50934384.08",
+				"debt_amount": "32006701.92",
+				"owner_equity_current": "18927682.16",
+				"operating_cost": "8891942.61"
+			},
+			"四川九洲光电科技股份有限公司": {
+				"net_profit_end": "4183012.46",
+				"operating_income_end": "172623644.99",
+				"assets_amount_end": "367263026.6",
+				"debt_amount": "343665169.62",
+				"owner_equity_current": "23597856.98",
+				"operating_cost": "120308922.18"
+			},
+			"四川蜀旺新能源股份有限公司": {
+				"net_profit_end": "1243054.55",
+				"operating_income_end": "33145702.9",
+				"assets_amount_end": "57434212.47",
+				"debt_amount": "21496905.24",
+				"owner_equity_current": "24450367.73",
+				"operating_cost": "32942594.37"
+			},
+			"重庆奥根科技有限公司": {
+				"net_profit_end": "-514828.22",
+				"operating_income_end": "50363491.54",
+				"assets_amount_end": "48191244.26",
+				"debt_amount": "24359157.4",
+				"owner_equity_current": "23832086.86",
+				"operating_cost": "42545670.13"
+			},
+			"重庆聚融建设（集团）股份有限公司": {
+				"net_profit_end": "54628201.94",
+				"operating_income_end": "332754773.32",
+				"assets_amount_end": "428961504.34",
+				"debt_amount": "183641349.52",
+				"owner_equity_current": "245320154.82",
+				"operating_cost": "228228252.45"
+			},
+			"成都新西南陶瓷艺术股份有限公司": {
+				"net_profit_end": "-15299998.53",
+				"operating_income_end": "11432923.62",
+				"assets_amount_end": "21576976.01",
+				"debt_amount": "19677648.86",
+				"owner_equity_current": "1899327.15",
+				"operating_cost": "8452039.72"
+			},
+			"云南顺丰洱海环保科技股份有限公司": {
+				"net_profit_end": "6981742.24",
+				"operating_income_end": "286624416.67",
+				"assets_amount_end": "914489876.8",
+				"debt_amount": "827866437.9",
+				"owner_equity_current": "86623438.86",
+				"operating_cost": "229359772.95"
+			},
+			"成都维纳软件股份有限公司": {
+				"net_profit_end": "-12061362.51",
+				"operating_income_end": "96821036.4",
+				"assets_amount_end": "105098104.14",
+				"debt_amount": "34221193.4",
+				"owner_equity_current": "70876910.74",
+				"operating_cost": "88323059.93"
+			},
+			"重庆瑞普电气实业股份有限公司": {
+				"net_profit_end": "13760698",
+				"operating_income_end": "1128400848.21",
+				"assets_amount_end": "838709392.58",
+				"debt_amount": "540476764.65",
+				"owner_equity_current": "298232627.93",
+				"operating_cost": "1040985636.92"
+			},
+			"重庆霏洋环保科技股份有限公": {
+				"net_profit_end": "2790686.12",
+				"operating_income_end": "50772695.47",
+				"assets_amount_end": "73847134.92",
+				"debt_amount": "28944239.88",
+				"owner_equity_current": "44902895.04",
+				"operating_cost": "38795708.11"
+			},
+			"四川东方水利智能装备工程股份有限公司": {
+				"net_profit_end": "26355680.08",
+				"operating_income_end": "206724379.09",
+				"assets_amount_end": "361765065.4",
+				"debt_amount": "220328141.41",
+				"owner_equity_current": "141436923.99",
+				"operating_cost": "136630395.16"
+			},
+			"贵州贵材创新科技股份有限公司": {
+				"net_profit_end": "6705888.25",
+				"operating_income_end": "155522110.96",
+				"assets_amount_end": "105104720.72",
+				"debt_amount": "58233646.78",
+				"owner_equity_current": "46871073.94",
+				"operating_cost": "137346523.84"
+			},
+			"成都蜀虹装备制造股份有限公司": {
+				"net_profit_end": "26216367.04",
+				"operating_income_end": "160480176.58",
+				"assets_amount_end": "305166231.28",
+				"debt_amount": "152922399.19",
+				"owner_equity_current": "152243832.09",
+				"operating_cost": "109398841.05"
+			},
+			"四川金安特农业股份有限公司": {
+				"net_profit_end": "-2679075.23",
+				"operating_income_end": "26960714.97",
+				"assets_amount_end": "63552708.07",
+				"debt_amount": "20317958.05",
+				"owner_equity_current": "42234750.02",
+				"operating_cost": "23448994"
+			},
+			"成都博高信息技术股份有限公司": {
+				"net_profit_end": "9048763.41",
+				"operating_income_end": "125988404.65",
+				"assets_amount_end": "159003062.54",
+				"debt_amount": "39497223.66",
+				"owner_equity_current": "119505838.88",
+				"operating_cost": "91911516.39"
+			},
+			"成都绿金高新技术股份有限公司": {
+				"net_profit_end": "-689148.45",
+				"operating_income_end": "106040598.35",
+				"assets_amount_end": "129799761.18",
+				"debt_amount": "100385874.61",
+				"owner_equity_current": "29413886.57",
+				"operating_cost": "118994566.39"
+			},
+			"重庆新申新材料股份有限公司": {
+				"net_profit_end": "21908422",
+				"operating_income_end": "171117438.5",
+				"assets_amount_end": "135667458.23",
+				"debt_amount": "76017476.69",
+				"owner_equity_current": "59649981.54",
+				"operating_cost": "116059306.91"
+			},
+			"四川远方高新装备零部件股份有限公司": {
+				"net_profit_end": "2545196.97",
+				"operating_income_end": "77739842.21",
+				"assets_amount_end": "124889284.46",
+				"debt_amount": "72198885.38",
+				"owner_equity_current": "48111277.18",
+				"operating_cost": "59545443.51"
+			},
+			"四川安杰信科技股份有限公司": {
+				"net_profit_end": "981655.67",
+				"operating_income_end": "42821249.21",
+				"assets_amount_end": "50951011.91",
+				"debt_amount": "11820256",
+				"owner_equity_current": "39130755.91",
+				"operating_cost": "27767314.66"
+			},
+			"成都之维安科技股份有限公司": {
+				"net_profit_end": "5436964.64",
+				"operating_income_end": "65794777.81",
+				"assets_amount_end": "74458959.21",
+				"debt_amount": "36327974.89",
+				"owner_equity_current": "38130984.32",
+				"operating_cost": "38879282.55"
+			},
+			"四川新健康成生物股份有限公司": {
+				"net_profit_end": "27793007.55",
+				"operating_income_end": "162078249.98",
+				"assets_amount_end": "374204416.44",
+				"debt_amount": "35243780.41",
+				"owner_equity_current": "338960636.03",
+				"operating_cost": "71918996.82"
+			},
+			"四川锦美环保股份有限公司": {
+				"net_profit_end": "10510902.79",
+				"operating_income_end": "109209269.73",
+				"assets_amount_end": "272705228.65",
+				"debt_amount": "72602535.93",
+				"owner_equity_current": "200102692.72",
+				"operating_cost": "68571137.85"
+			},
+			"成都联帮医疗科技股份有限公司": {
+				"net_profit_end": "12730193.65",
+				"operating_income_end": "206394392.25",
+				"assets_amount_end": "263979871.49",
+				"debt_amount": "142098982.23",
+				"owner_equity_current": "121880889.26",
+				"operating_cost": "188532482.9"
+			},
+			"重庆欧百特冷链科技股份有限公司": {
+				"net_profit_end": "3900583.23",
+				"operating_income_end": "47334542.97",
+				"assets_amount_end": "49178200.99",
+				"debt_amount": "19015939.3",
+				"owner_equity_current": "30162261.69",
+				"operating_cost": "34897650.25"
+			},
+			"贵州火焰山电器股份有限公司": {
+				"net_profit_end": "-1766492.86",
+				"operating_income_end": "70180694.83",
+				"assets_amount_end": "129350539.81",
+				"debt_amount": "88006846.97",
+				"owner_equity_current": "41343692.84",
+				"operating_cost": "53569003.34"
+			},
+			"成都西部泰力智能设备股份有限公司": {
+				"net_profit_end": "9502575.46",
+				"operating_income_end": "92752127.51",
+				"assets_amount_end": "222381392.75",
+				"debt_amount": "96262138.61",
+				"owner_equity_current": "126119254.14",
+				"operating_cost": "60391494.13"
+			},
+			"重庆市大正仪表股份有限公司": {
+				"net_profit_end": "8354094.73",
+				"operating_income_end": "53799858.57",
+				"assets_amount_end": "76315331.08",
+				"debt_amount": "16326640.15",
+				"owner_equity_current": "59988690.93",
+				"operating_cost": "33849482.17"
+			},
+			"云南润杰农业科技股份有限公司": {
+				"net_profit_end": "6533197.35",
+				"operating_income_end": "203284550.88",
+				"assets_amount_end": "95793020.69",
+				"debt_amount": "62043452.38",
+				"owner_equity_current": "33749568.31",
+				"operating_cost": "153586331.01"
+			},
+			"云南祥云飞龙再生科技股份有限公司": {
+				"net_profit_end": "-658687314.56",
+				"operating_income_end": "2048889431.13",
+				"assets_amount_end": "9347810665.4",
+				"debt_amount": "4807938972.14",
+				"owner_equity_current": "4539871693.26",
+				"operating_cost": "1919801142.95"
+			},
+			"四川科志人防设备股份有限公司": {
+				"net_profit_end": "84607444",
+				"operating_income_end": "362296595.36",
+				"assets_amount_end": "613696359.32",
+				"debt_amount": "337054294.37",
+				"owner_equity_current": "276642064.95",
+				"operating_cost": "213498037.88"
+			},
+			"四川亿舟科技股份有限公司": {
+				"net_profit_end": "-3064702.83",
+				"operating_income_end": "17646686.66",
+				"assets_amount_end": "14309061.55",
+				"debt_amount": "8591618.89",
+				"owner_equity_current": "5717442.66",
+				"operating_cost": "11758387.02"
+			},
+			"成都亚讯星科科技股份有限公司": {
+				"net_profit_end": "253085.07",
+				"operating_income_end": "23777639.65",
+				"assets_amount_end": "43886524.81",
+				"debt_amount": "15545088.1",
+				"owner_equity_current": "28341436.71",
+				"operating_cost": "13597788.5"
+			},
+			"四川村田机械制造股份有限公司": {
+				"net_profit_end": "223885.84",
+				"operating_income_end": "32635570.34",
+				"assets_amount_end": "40368953.31",
+				"debt_amount": "17056213.88",
+				"owner_equity_current": "23312739.43",
+				"operating_cost": "26625560.55"
+			},
+			"四川瑞宝电子股份有限公司": {
+				"net_profit_end": "11636675.39",
+				"operating_income_end": "224109071.22",
+				"assets_amount_end": "223689583.62",
+				"debt_amount": "97869016.34",
+				"owner_equity_current": "125820567.28",
+				"operating_cost": "173646287.77"
+			},
+			"四川赛卓药业股份有限公司": {
+				"net_profit_end": "-3135785.36",
+				"operating_income_end": "50716814.03",
+				"assets_amount_end": "98202224.6",
+				"debt_amount": "10254005.83",
+				"owner_equity_current": "69216178.24",
+				"operating_cost": "53768591.16"
+			}
+		},
+		"2020": {
+			"云南七丹药业股份有限公司": {
+				"net_profit_end": "8938282.2",
+				"operating_income_end": "285146111.2",
+				"assets_amount_end": "252289259.15",
+				"debt_amount": "113974797.46",
+				"owner_equity_current": "138314461.69",
+				"operating_cost": "234396770.06"
+			},
+			"四川东立科技股份有限公司": {
+				"net_profit_end": "60760501.37",
+				"operating_income_end": "358336484.65",
+				"assets_amount_end": "213125775.86",
+				"debt_amount": "92877323.82",
+				"owner_equity_current": "120248452.04",
+				"operating_cost": "246153803.78"
+			},
+			"成都西部泰力智能设备股份有限公司": {
+				"net_profit_end": "9566188.16",
+				"operating_income_end": "84177688.32",
+				"assets_amount_end": "157429118.84",
+				"debt_amount": "86008742.69",
+				"owner_equity_current": "117112754.5",
+				"operating_cost": "49752897.6"
+			},
+			"重庆霏洋环保科技股份有限公": {
+				"net_profit_end": "4119067.35",
+				"operating_income_end": "34733206.55",
+				"assets_amount_end": "70767389.93",
+				"debt_amount": "28655181.01",
+				"owner_equity_current": "42112208.92",
+				"operating_cost": "25272046.38"
+			},
+			"贵州威门药业股份有限公司": {
+				"net_profit_end": "16008327.87",
+				"operating_income_end": "370907613.69",
+				"assets_amount_end": "810657389.04",
+				"debt_amount": "293216945.74",
+				"owner_equity_current": "517440443.3",
+				"operating_cost": "95418486.73"
+			},
+			"成都博高信息技术股份有限公司": {
+				"net_profit_end": "6578196.93",
+				"operating_income_end": "92662261.95",
+				"assets_amount_end": "143698428.28",
+				"debt_amount": "23470491.05",
+				"owner_equity_current": "120227937.23",
+				"operating_cost": "67677617.05"
+			},
+			"四川新迎顺信息技术股份有限公司": {
+				"net_profit_end": "7996580.69",
+				"operating_income_end": "177274051.64",
+				"assets_amount_end": "201673858.52",
+				"debt_amount": "110594680.91",
+				"owner_equity_current": "91079177.61",
+				"operating_cost": "143458639.9"
+			},
+			"成都惠锋新材料科技股份有限公司": {
+				"net_profit_end": "-1544019.03",
+				"operating_income_end": "18963122.32",
+				"assets_amount_end": "53114278.4",
+				"debt_amount": "24494989.16",
+				"owner_equity_current": "28619289.24",
+				"operating_cost": "14623323.01"
+			},
+			"四川东方水利智能装备工程股份有限公司": {
+				"net_profit_end": "20415906.34",
+				"operating_income_end": "157371702.72",
+				"assets_amount_end": "304328928.45",
+				"debt_amount": "189247684.54",
+				"owner_equity_current": "304328928.45",
+				"operating_cost": "113806310.86"
+			},
+			"成都可为科技股份有限公司": {
+				"net_profit_end": "-1438634.43",
+				"operating_income_end": "18222644.75",
+				"assets_amount_end": "45662436.25",
+				"debt_amount": "27129798.23",
+				"owner_equity_current": "18534178.02",
+				"operating_cost": "20014476.56"
+			},
+			"四川九洲光电科技股份有限公司": {
+				"net_profit_end": "4940586.49",
+				"operating_income_end": "153319017.4",
+				"assets_amount_end": "346687941.91",
+				"debt_amount": "327408262.1",
+				"owner_equity_current": "19279679.81",
+				"operating_cost": "123981881.84"
+			},
+			"成都迈科高分子材料股份有限公司": {
+				"net_profit_end": "3354228.22",
+				"operating_income_end": "45134082.08",
+				"assets_amount_end": "62069318.25",
+				"debt_amount": "21895566.81",
+				"owner_equity_current": "40173751.44",
+				"operating_cost": "31281132.7"
+			},
+			"成都巨龙生物科技股份有限公司": {
+				"net_profit_end": "3455299.72",
+				"operating_income_end": "102931428.1",
+				"assets_amount_end": "86021673.31",
+				"debt_amount": "22972935.94",
+				"owner_equity_current": "63048737.37",
+				"operating_cost": "61585594.77"
+			},
+			"成都佳诚弘毅科技股份有限公司": {
+				"net_profit_end": "-6548743.15",
+				"operating_income_end": "10653049.27",
+				"assets_amount_end": "15244141.27",
+				"debt_amount": "4983725.49",
+				"owner_equity_current": "10260415.78",
+				"operating_cost": "4945387.28"
+			},
+			"成都帮辉汽车配件股份有限公司": {
+				"net_profit_end": "1017284.73",
+				"operating_income_end": "89231555",
+				"assets_amount_end": "40728540",
+				"debt_amount": "23629014.07",
+				"owner_equity_current": "17099525.93",
+				"operating_cost": "84197855.55"
+			},
+			"成都市康华药业股份有限公司": {
+				"net_profit_end": "4109100.44",
+				"operating_income_end": "74419450.93",
+				"assets_amount_end": "110168963.68",
+				"debt_amount": "28242699.59",
+				"owner_equity_current": "86776977.24",
+				"operating_cost": "71562488.14"
+			},
+			"四川飞宇电力股份有限公司": {
+				"net_profit_end": "4114681.96",
+				"operating_income_end": "168949747.95",
+				"assets_amount_end": "130646620.72",
+				"debt_amount": "89907004.25",
+				"owner_equity_current": "40739616.47",
+				"operating_cost": "142806564.45"
+			},
+			"云南祥云飞龙再生科技股份有限公司": {
+				"net_profit_end": "10449818.02",
+				"operating_income_end": "1739114650.06",
+				"assets_amount_end": "9741767306.31",
+				"debt_amount": "4543485025.09",
+				"owner_equity_current": "5198282281.22",
+				"operating_cost": "1458368290.87"
+			},
+			"四川奇石缘科技股份有限公司": {
+				"net_profit_end": "22845514.05",
+				"operating_income_end": "90360378.5",
+				"assets_amount_end": "177794559.83",
+				"debt_amount": "69741837.86",
+				"owner_equity_current": "108052721.97",
+				"operating_cost": "41993020.01"
+			},
+			"四川格纳斯光电科技股份有限公司": {
+				"net_profit_end": "-3935076.86",
+				"operating_income_end": "95474146.4",
+				"assets_amount_end": "109706019.69",
+				"debt_amount": "92683756.35",
+				"owner_equity_current": "17022263.34",
+				"operating_cost": "89817173.69"
+			},
+			"四川帝华汽车科技股份有限公司": {
+				"net_profit_end": "3978555.67",
+				"operating_income_end": "38551689.84",
+				"assets_amount_end": "170233549.37",
+				"debt_amount": "57658336.63",
+				"owner_equity_current": "112575212.74",
+				"operating_cost": "20800386.1"
+			},
+			"云南顺丰洱海环保科技股份有限公司": {
+				"net_profit_end": "3429818.39",
+				"operating_income_end": "238825982.85",
+				"assets_amount_end": "737373304.86",
+				"debt_amount": "660098600.34",
+				"owner_equity_current": "77274704.52",
+				"operating_cost": "167142686.9"
+			},
+			"成都德芯数字科技股份有限公司 ": {
+				"net_profit_end": "85296496.17",
+				"operating_income_end": "270945687.86",
+				"assets_amount_end": "193140033.23",
+				"debt_amount": "144795609.28",
+				"owner_equity_current": "235816716.64",
+				"operating_cost": "171582519.7"
+			},
+			"成都共同管业集团股份有限公司": {
+				"net_profit_end": "23214277.94",
+				"operating_income_end": "258971264.49",
+				"assets_amount_end": "394260279.29",
+				"debt_amount": "154594193.57",
+				"owner_equity_current": "239666085.72",
+				"operating_cost": "226822778.62"
+			},
+			"四川安杰信科技股份有限公司": {
+				"net_profit_end": "496149.3",
+				"operating_income_end": "49581395.19",
+				"assets_amount_end": "74375593.58",
+				"debt_amount": "36226493.34",
+				"owner_equity_current": "38149100.24",
+				"operating_cost": "33901039.27"
+			},
+			"四川赛狄信息技术股份公司": {
+				"net_profit_end": "31267007.66",
+				"operating_income_end": "185689957.88",
+				"assets_amount_end": "348538319.83",
+				"debt_amount": "201709555.38",
+				"owner_equity_current": "146828764.45",
+				"operating_cost": "92669337.03"
+			},
+			"重庆和泰润佳股份有限公司": {
+				"net_profit_end": "26687909.59",
+				"operating_income_end": "224974766.46",
+				"assets_amount_end": "202527406.18",
+				"debt_amount": "111383726.26",
+				"owner_equity_current": "91143679.92",
+				"operating_cost": "164550899.89"
+			},
+			"四川科志人防设备股份有限公司": {
+				"net_profit_end": "61945605.98",
+				"operating_income_end": "266866719.98",
+				"assets_amount_end": "450578840.65",
+				"debt_amount": "281037165.07",
+				"owner_equity_current": "169541675.58",
+				"operating_cost": "165636451.94"
+			},
+			"四川银钢一通凸轮科技股份有限公司": {
+				"net_profit_end": "26506106.1",
+				"operating_income_end": "246225834.39",
+				"assets_amount_end": "372727402.36",
+				"debt_amount": "248059738.69",
+				"owner_equity_current": "124667663.67",
+				"operating_cost": "186426899.39"
+			},
+			"重庆云网科技股份有限公司": {
+				"net_profit_end": "3832799.62",
+				"operating_income_end": "86076544.02",
+				"assets_amount_end": "153078252.19",
+				"debt_amount": "63251022.5",
+				"owner_equity_current": "89827229.69",
+				"operating_cost": "49842059.8"
+			},
+			"成都成电光信科技股份有限公司": {
+				"net_profit_end": "11749865.55",
+				"operating_income_end": "66479269.83",
+				"assets_amount_end": "145208138.45",
+				"debt_amount": "26394375.6",
+				"owner_equity_current": "118813762.85",
+				"operating_cost": "36352999.57"
+			},
+			"成都维纳软件股份有限公司": {
+				"net_profit_end": "-4083817.93",
+				"operating_income_end": "95711823.54",
+				"assets_amount_end": "107113178.22",
+				"debt_amount": "31241118.38",
+				"owner_equity_current": "75872059.84",
+				"operating_cost": "105070039.03"
+			},
+			"四川深远石油钻井工具股份有限公司": {
+				"net_profit_end": "1210112.94",
+				"operating_income_end": "82876823.94",
+				"assets_amount_end": "203179479.36",
+				"debt_amount": "93647475.06",
+				"owner_equity_current": "104702060.73",
+				"operating_cost": "48755125.21"
+			},
+			"成都亚讯星科科技股份有限公司": {
+				"net_profit_end": "-5190603.14",
+				"operating_income_end": "6347644.54",
+				"assets_amount_end": "37091385",
+				"debt_amount": "9003033.36",
+				"owner_equity_current": "28088351.64",
+				"operating_cost": "3623264.15"
+			},
+			"成都欧迅科技股份有限公司": {
+				"net_profit_end": "-3148698.42",
+				"operating_income_end": "8327005.82",
+				"assets_amount_end": "34310652.79",
+				"debt_amount": "27547028.3",
+				"owner_equity_current": "6763624.49",
+				"operating_cost": "6360885.46"
+			},
+			"成都陆迪科技股份有限公司": {
+				"net_profit_end": "1385422.65",
+				"operating_income_end": "12989275.83",
+				"assets_amount_end": "17077966.12",
+				"debt_amount": "11738796.56",
+				"owner_equity_current": "5339169.56",
+				"operating_cost": "15414864.67"
+			},
+			"成都龙之泉科技股份有限公司": {
+				"net_profit_end": "12206511.21",
+				"operating_income_end": "126938591.58",
+				"assets_amount_end": "317237549.26",
+				"debt_amount": "104160468.69",
+				"owner_equity_current": "213077080.57",
+				"operating_cost": "113183052.65"
+			},
+			"四川东钢新材料股份有限公司": {
+				"net_profit_end": "10229904.21",
+				"operating_income_end": "123512760.41",
+				"assets_amount_end": "82415264.92",
+				"debt_amount": "29049984.97",
+				"owner_equity_current": "53365279.95",
+				"operating_cost": "103943165.31"
+			},
+			"重庆大众能源设备有限公司": {
+				"net_profit_end": "1236676.73",
+				"operating_income_end": "21915982.8",
+				"assets_amount_end": "50149765.86",
+				"debt_amount": "25592711.02",
+				"owner_equity_current": "24557054.84",
+				"operating_cost": "12838504.22"
+			},
+			"重庆申高生化制药股份有限公司": {
+				"net_profit_end": "-2946560.45",
+				"operating_income_end": "22591819.41",
+				"assets_amount_end": "43769660.23",
+				"debt_amount": "20126193.17",
+				"owner_equity_current": "23643467.06",
+				"operating_cost": "17959139.15"
+			},
+			"成都鹏业软件股份有限公司": {
+				"net_profit_end": "11327484.11",
+				"operating_income_end": "80560498.25",
+				"assets_amount_end": "119970164.98",
+				"debt_amount": "62901490.73",
+				"owner_equity_current": "57068674.25",
+				"operating_cost": "25008123.31"
+			},
+			"贵州火焰山电器股份有限公司": {
+				"net_profit_end": "-4505930.92",
+				"operating_income_end": "49989214.68",
+				"assets_amount_end": "137742381",
+				"debt_amount": "94632195.3",
+				"owner_equity_current": "43110185.7",
+				"operating_cost": "37890193.23"
+			},
+			"云南润杰农业科技股份有限公司": {
+				"net_profit_end": "5230457.4",
+				"operating_income_end": "145380393.66",
+				"assets_amount_end": "68120226.65",
+				"debt_amount": "40837075.69",
+				"owner_equity_current": "27283150.96",
+				"operating_cost": "106925057.98"
+			},
+			"四川村田机械制造股份有限公司": {
+				"net_profit_end": "2792516.99",
+				"operating_income_end": "34023248.04",
+				"assets_amount_end": "44208688.93",
+				"debt_amount": "21119835.34",
+				"owner_equity_current": "0",
+				"operating_cost": "27695101.19"
+			},
+			"重庆欧百特冷链科技股份有限公司": {
+				"net_profit_end": "3440545.66",
+				"operating_income_end": "31457667.73",
+				"assets_amount_end": "35243280.86",
+				"debt_amount": "8981602.4",
+				"owner_equity_current": "26261678.46",
+				"operating_cost": "22272251.95"
+			},
+			"四川精典汽车服务联锁股份有限公司": {
+				"net_profit_end": "319480257",
+				"operating_income_end": "1515166252.72",
+				"assets_amount_end": "474256507.75",
+				"debt_amount": "388667714.8",
+				"owner_equity_current": "85588792.95",
+				"operating_cost": "1348334959.84"
+			},
+			"成都新西南陶瓷艺术股份有限公司": {
+				"net_profit_end": "129099.6",
+				"operating_income_end": "21159684.96",
+				"assets_amount_end": "23460638.51",
+				"debt_amount": "20040852.11",
+				"owner_equity_current": "3419786.4",
+				"operating_cost": "15107826.25"
+			},
+			"四川春盛药业集团股份有限公司": {
+				"net_profit_end": "-36962351.33",
+				"operating_income_end": "-37051298.94",
+				"assets_amount_end": "183385934.41",
+				"debt_amount": "112014008.34",
+				"owner_equity_current": "71371926.07",
+				"operating_cost": "95493814.72"
+			},
+			"四川同人泰药业股份有限公司": {
+				"net_profit_end": "8989902.67",
+				"operating_income_end": "133559553.91",
+				"assets_amount_end": "149433379.85",
+				"debt_amount": "71645568.58",
+				"owner_equity_current": "77787811.27",
+				"operating_cost": "103478307.11"
+			},
+			"重庆奥根科技有限公司": {
+				"net_profit_end": "-766449.85",
+				"operating_income_end": "34533148.81",
+				"assets_amount_end": "50024994.56",
+				"debt_amount": "25678079.48",
+				"owner_equity_current": "24346915.08",
+				"operating_cost": "27238710.71"
+			},
+			"贵州得轩堂护康药业股份有限公司": {
+				"net_profit_end": "-3203230.4",
+				"operating_income_end": "5885148.24",
+				"assets_amount_end": "25969060.75",
+				"debt_amount": "10056425.82",
+				"owner_equity_current": "15912634.93",
+				"operating_cost": "1593556.36"
+			},
+			"四川亿舟科技股份有限公司": {
+				"net_profit_end": "1947313.83",
+				"operating_income_end": "19074847.82",
+				"assets_amount_end": "19194888.65",
+				"debt_amount": "9353743.16",
+				"owner_equity_current": "9841145.49",
+				"operating_cost": "13110931.75"
+			},
+			"四川锦美环保股份有限公司": {
+				"net_profit_end": "10083223.12",
+				"operating_income_end": "100857024.95",
+				"assets_amount_end": "234426120.36",
+				"debt_amount": "44834330.43",
+				"owner_equity_current": "189591789.93",
+				"operating_cost": "63907392.69"
+			},
+			"四川新健康成生物股份有限公司": {
+				"net_profit_end": "26804326.28",
+				"operating_income_end": "149961912.44",
+				"assets_amount_end": "397633525.13",
+				"debt_amount": "27916324.39",
+				"owner_equity_current": "369717200.74",
+				"operating_cost": "61875894.12"
+			},
+			"重庆巨创计量设备股份有限公司": {
+				"net_profit_end": "-677493.06",
+				"operating_income_end": "28765785.11",
+				"assets_amount_end": "34070735.42",
+				"debt_amount": "27298342.86",
+				"owner_equity_current": "6772392.56",
+				"operating_cost": "20361397.03"
+			},
+			"成都蜀虹装备制造股份有限公司": {
+				"net_profit_end": "21193410.48",
+				"operating_income_end": "137840688.1",
+				"assets_amount_end": "234426861.39",
+				"debt_amount": "88819303.54",
+				"owner_equity_current": "145607557.85",
+				"operating_cost": "97596231.48"
+			},
+			"重庆锦瑜电子股份有限公司": {
+				"net_profit_end": "-5703705.21",
+				"operating_income_end": "174710500.79",
+				"assets_amount_end": "234521240.55",
+				"debt_amount": "155626344.52",
+				"owner_equity_current": "78894896.03",
+				"operating_cost": "146299963.87"
+			},
+			"成都绿金高新技术股份有限公司": {
+				"net_profit_end": "-18655561.17",
+				"operating_income_end": "105102900.57",
+				"assets_amount_end": "121439296.2",
+				"debt_amount": "91336261.18",
+				"owner_equity_current": "30103035.02",
+				"operating_cost": "117616580.18"
+			},
+			"成都欧美克石油股份有限公司": {
+				"net_profit_end": "8346988.69",
+				"operating_income_end": "90581779.91",
+				"assets_amount_end": "207253692",
+				"debt_amount": "40560316.3",
+				"owner_equity_current": "166693375.7",
+				"operating_cost": "52228731.03"
+			},
+			"成都易信达科技股份有限公司": {
+				"net_profit_end": "-10796326.21",
+				"operating_income_end": "26689704.39",
+				"assets_amount_end": "68603993.16",
+				"debt_amount": "34525237.19",
+				"owner_equity_current": "34078755.97",
+				"operating_cost": "14505377.63"
+			},
+			"四川华南信息产业股份有限公司": {
+				"net_profit_end": "-5514946.22",
+				"operating_income_end": "15952448.29",
+				"assets_amount_end": "61104259.7",
+				"debt_amount": "33511300.91",
+				"owner_equity_current": "27592958.79",
+				"operating_cost": "11491150.18"
+			},
+			"重庆聚融建设（集团）股份有限公司": {
+				"net_profit_end": "57586204.47",
+				"operating_income_end": "309348889.81",
+				"assets_amount_end": "413263024.8",
+				"debt_amount": "192250131.06",
+				"owner_equity_current": "221012893.74",
+				"operating_cost": "214826632.73"
+			},
+			"四川蜀旺新能源股份有限公司": {
+				"net_profit_end": "187826.97",
+				"operating_income_end": "33720563.48",
+				"assets_amount_end": "44704218.42",
+				"debt_amount": "20775505.85",
+				"owner_equity_current": "44704218.42",
+				"operating_cost": "28710742.94"
+			},
+			"四川瑞宝电子股份有限公司": {
+				"net_profit_end": "14966305.03",
+				"operating_income_end": "211744731.04",
+				"assets_amount_end": "182917298.73",
+				"debt_amount": "68733406.84",
+				"owner_equity_current": "114183891.89",
+				"operating_cost": "162752470.3"
+			},
+			"四川豪特精工装备股份有限公司": {
+				"net_profit_end": "797527.05",
+				"operating_income_end": "48531873.25",
+				"assets_amount_end": "70582806.4",
+				"debt_amount": "30183759.66",
+				"owner_equity_current": "40399046.74",
+				"operating_cost": "38951682.25"
+			},
+			"成都华津时代科技股份有限公司": {
+				"net_profit_end": "923826.99",
+				"operating_income_end": "39455289.21",
+				"assets_amount_end": "88045359.37",
+				"debt_amount": "13613125.22",
+				"owner_equity_current": "74432234.15",
+				"operating_cost": "39551190.93"
+			},
+			"贵州汇通华城股份有限公司": {
+				"net_profit_end": "-16672951.48",
+				"operating_income_end": "50703030.03",
+				"assets_amount_end": "169060522.34",
+				"debt_amount": "63027376.14",
+				"owner_equity_current": "106033146.2",
+				"operating_cost": "26779569.19"
+			},
+			"成都卡乐福高分子材料股份有限公司": {
+				"net_profit_end": "665756.24",
+				"operating_income_end": "18791398.69",
+				"assets_amount_end": "21853270.76",
+				"debt_amount": "11495645.86",
+				"owner_equity_current": "10357624.9",
+				"operating_cost": "15338805.58"
+			},
+			"四川省福喜迎门酒业股份有限公司": {
+				"net_profit_end": "-1550303.2",
+				"operating_income_end": "526914.13",
+				"assets_amount_end": "22833753.25",
+				"debt_amount": "2595754.44",
+				"owner_equity_current": "20237998.81",
+				"operating_cost": "1399289.94"
+			},
+			"重庆新申新材料股份有限公司": {
+				"net_profit_end": "15227455.39",
+				"operating_income_end": "146045745.2",
+				"assets_amount_end": "102325550.29",
+				"debt_amount": "66700004.96",
+				"owner_equity_current": "35625545.33",
+				"operating_cost": "97708083.75"
+			},
+			"四川长城软件科技股份有限公司": {
+				"net_profit_end": "-4156362.82",
+				"operating_income_end": "8712934.57",
+				"assets_amount_end": "42860037.17",
+				"debt_amount": "438669.12",
+				"owner_equity_current": "42421368.05",
+				"operating_cost": "105380.55"
+			},
+			"四川赛卓药业股份有限公司": {
+				"net_profit_end": "-17411027.25",
+				"operating_income_end": "45236058.56",
+				"assets_amount_end": "86544917.92",
+				"debt_amount": "11294418.96",
+				"owner_equity_current": "72351963.6",
+				"operating_cost": "13091862.75"
+			},
+			"四川安达农森科技股份有限公司": {
+				"net_profit_end": "25197939.76",
+				"operating_income_end": "553103209.22",
+				"assets_amount_end": "202312244.95",
+				"debt_amount": "133694305.23",
+				"owner_equity_current": "68617939.72",
+				"operating_cost": "499945730.24"
+			},
+			"重庆多普泰制药股份有限公司": {
+				"net_profit_end": "73790216.18",
+				"operating_income_end": "447792659.5",
+				"assets_amount_end": "505941310.2",
+				"debt_amount": "57168975.38",
+				"owner_equity_current": "448772334.82",
+				"operating_cost": "177725474.49"
+			},
+			"四川金安特农业股份有限公司": {
+				"net_profit_end": "3907836.88",
+				"operating_income_end": "21675699",
+				"assets_amount_end": "58527039.64",
+				"debt_amount": "13628599.6",
+				"owner_equity_current": "44898440.04",
+				"operating_cost": "15236539.13"
+			},
+			"成都畅达通检测技术股份有限公司": {
+				"net_profit_end": "5332330.2",
+				"operating_income_end": "47460065.34",
+				"assets_amount_end": "131824261.56",
+				"debt_amount": "40902350.65",
+				"owner_equity_current": "90921910.91",
+				"operating_cost": "30271000.25"
+			},
+			"成都联帮医疗科技股份有限公司": {
+				"net_profit_end": "10640818.81",
+				"operating_income_end": "141947453.64",
+				"assets_amount_end": "193874.25",
+				"debt_amount": "114082261.59",
+				"owner_equity_current": "105756126.91",
+				"operating_cost": "129939699.08"
+			},
+			"四川特飞科技股份有限公司": {
+				"net_profit_end": "-7557273.21",
+				"operating_income_end": "5546241.94",
+				"assets_amount_end": "13721671.37",
+				"debt_amount": "6205175.12",
+				"owner_equity_current": "13721671.37",
+				"operating_cost": "8230996.85"
+			},
+			"四川南联环资科技股份有限公司": {
+				"net_profit_end": "26758064.36",
+				"operating_income_end": "112758704.96",
+				"assets_amount_end": "255270328.19",
+				"debt_amount": "97916409.78",
+				"owner_equity_current": "157353918.41",
+				"operating_cost": "71808922.14"
+			},
+			"成都恒成工具股份有限公司": {
+				"net_profit_end": "8428796.49",
+				"operating_income_end": "51312908.41",
+				"assets_amount_end": "111751277.44",
+				"debt_amount": "44721435.9",
+				"owner_equity_current": "67356608.8",
+				"operating_cost": "42523247.91"
+			},
+			"重庆鸿全兴业金属制品股份有限公司": {
+				"net_profit_end": "-1478254.04",
+				"operating_income_end": "109840078.61",
+				"assets_amount_end": "201098558.79",
+				"debt_amount": "77304403.34",
+				"owner_equity_current": "123794155.45",
+				"operating_cost": "97786115.34"
+			},
+			"成都之维安科技股份有限公司": {
+				"net_profit_end": "6583283.78",
+				"operating_income_end": "53381259.47",
+				"assets_amount_end": "76614311.56",
+				"debt_amount": "35292602.89",
+				"owner_equity_current": "41321708.67",
+				"operating_cost": "31230830.54"
+			},
+			"四川俊虹建材股份有限公司": {
+				"net_profit_end": "-4008343.69",
+				"operating_income_end": "32923462.59",
+				"assets_amount_end": "50587856.73",
+				"debt_amount": "46639596.31",
+				"owner_equity_current": "3948260.42",
+				"operating_cost": "26753647.91"
+			},
+			"重庆荆江汽车半轴股份有限公": {
+				"net_profit_end": "7262055.43",
+				"operating_income_end": "199335785.84",
+				"assets_amount_end": "208398557.93",
+				"debt_amount": "146221567.07",
+				"owner_equity_current": "62176990.86",
+				"operating_cost": "159645462.75"
+			},
+			"重庆梦赛力士光电股份有限公司": {
+				"net_profit_end": "6148349.29",
+				"operating_income_end": "55682750.4",
+				"assets_amount_end": "72333825.97",
+				"debt_amount": "31628349.81",
+				"owner_equity_current": "40705476.16",
+				"operating_cost": "48425587.09"
+			},
+			"四川大宇信息系统股份有限公司": {
+				"net_profit_end": "2326592.6",
+				"operating_income_end": "40290588.46",
+				"assets_amount_end": "62568386.82",
+				"debt_amount": "19414959.47",
+				"owner_equity_current": "43153427.35",
+				"operating_cost": "29868802.4"
+			},
+			"重庆瑞普电气实业股份有限公司": {
+				"net_profit_end": "9067838.91",
+				"operating_income_end": "314201031.44",
+				"assets_amount_end": "448630834.35",
+				"debt_amount": "218199232.83",
+				"owner_equity_current": "230431601.52",
+				"operating_cost": "279354264.85"
+			},
+			"四川川净洁净技术股份有限公司": {
+				"net_profit_end": "3431373.11",
+				"operating_income_end": "48430605.87",
+				"assets_amount_end": "114865447.89",
+				"debt_amount": "40462935.68",
+				"owner_equity_current": "74402512.21",
+				"operating_cost": "34151943.85"
+			},
+			"四川天星智能包装股份有限公司": {
+				"net_profit_end": "1303919.94",
+				"operating_income_end": "100042191.83",
+				"assets_amount_end": "76175934.19",
+				"debt_amount": "21073950.1",
+				"owner_equity_current": "53364570.96",
+				"operating_cost": "86855966.65"
+			},
+			"重庆聚能粉末": {
+				"net_profit_end": "15945121.95",
+				"operating_income_end": "86969266.71",
+				"assets_amount_end": "119809213.36",
+				"debt_amount": "37423178.63",
+				"owner_equity_current": "82386034.73",
+				"operating_cost": "75741523.27"
+			},
+			"四川辅正药业股份有限公司": {
+				"net_profit_end": "-1721891.51",
+				"operating_income_end": "82328466.86",
+				"assets_amount_end": "76391462.49",
+				"debt_amount": "36316786.72",
+				"owner_equity_current": "40074675.77",
+				"operating_cost": "13036081.49"
+			},
+			"重庆市大正仪表股份有限公司": {
+				"net_profit_end": "7555946.85",
+				"operating_income_end": "37365909.66",
+				"assets_amount_end": "72004976.91",
+				"debt_amount": "20406354.71",
+				"owner_equity_current": "51598622.2",
+				"operating_cost": "21633178.11"
+			},
+			"四川远方高新装备零部件股份有限公司": {
+				"net_profit_end": "-316804.33",
+				"operating_income_end": "71679009.95",
+				"assets_amount_end": "109406386.39",
+				"debt_amount": "66900306.18",
+				"owner_equity_current": "109406386.39",
+				"operating_cost": "57528899.35"
+			},
+			"成都飞鱼星科技股份有限公司": {
+				"net_profit_end": "6772626.85",
+				"operating_income_end": "41935465.81",
+				"assets_amount_end": "97590840.15",
+				"debt_amount": "8946616.34",
+				"owner_equity_current": "88644223.81",
+				"operating_cost": "41938274.48"
+			},
+			"贵州贵材创新科技股份有限公司": {
+				"net_profit_end": "4238615.77",
+				"operating_income_end": "118705918.15",
+				"assets_amount_end": "97148424.14",
+				"debt_amount": "55019487.12",
+				"owner_equity_current": "42128937.02",
+				"operating_cost": "104341093.08"
+			},
+			"成都仁新科技股份有限公司": {
+				"net_profit_end": "60050691.25",
+				"operating_income_end": "262814460",
+				"assets_amount_end": "678088837.05",
+				"debt_amount": "230621271.94",
+				"owner_equity_current": "447467565.11",
+				"operating_cost": "180257522.72"
+			}
+		}
+	}
+}
