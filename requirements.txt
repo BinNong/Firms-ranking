@@ -1,0 +1,8 @@
+pydea~=1.6
+pulp~=2.7.0
+openpyxl~=3.1.2
+setuptools~=68.0.0
+pandas~=2.0.3
+numpy~=1.24.3
+flask~=3.0.0
+requests~=2.31.0
